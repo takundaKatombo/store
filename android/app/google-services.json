@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "368256490966",
+    "firebase_url": "https://booker-1f0b6.firebaseio.com",
+    "project_id": "booker-1f0b6",
+    "storage_bucket": "booker-1f0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368256490966:android:1d1f42004ec4a43d091877",
+        "android_client_info": {
+          "package_name": "com.te.booker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs93fjwg_uH5RpEzvDlvjRgmKOw3-fhfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368256490966-avqtpl5pek8dj9d3iqdpibbvo7sn9ato.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techno.sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368256490966:android:7fda42eef62418dd091877",
+        "android_client_info": {
+          "package_name": "com.techno.portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs93fjwg_uH5RpEzvDlvjRgmKOw3-fhfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368256490966-avqtpl5pek8dj9d3iqdpibbvo7sn9ato.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techno.sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368256490966:android:d2cd04bb25ab8881091877",
+        "android_client_info": {
+          "package_name": "com.techno.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs93fjwg_uH5RpEzvDlvjRgmKOw3-fhfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368256490966-avqtpl5pek8dj9d3iqdpibbvo7sn9ato.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techno.sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368256490966:android:61aa714fcd687b01091877",
+        "android_client_info": {
+          "package_name": "com.techno.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs93fjwg_uH5RpEzvDlvjRgmKOw3-fhfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368256490966-nk5t0mebrveljubiv25qtgfq96gb0vq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368256490966-avqtpl5pek8dj9d3iqdpibbvo7sn9ato.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techno.sample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
