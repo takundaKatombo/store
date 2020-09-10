@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
-import '../../model/app_state_model.dart';
 import '../../model/product.dart';
 import '../styles.dart';
 

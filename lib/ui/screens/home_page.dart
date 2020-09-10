@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
             ),
             icon: IconButton(
               icon: Icon(Icons.account_circle),
-              onPressed: null,
+              onPressed: () => Navigator.pushNamed(context, '/account'),
               color: Colors.red,
             ),
           ),

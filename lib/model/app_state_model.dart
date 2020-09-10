@@ -4,7 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart' as foundation;
 
 import 'product.dart';
-import 'products_repository.dart';
 
 double _salesTaxRate = 0.06;
 double _shippingCostPerItem = 7;
@@ -12,6 +11,7 @@ double _shippingCostPerItem = 7;
 class AppStateModel extends foundation.ChangeNotifier {
   // All the available products.
   List<Product> availableProducts = [];
+  String address;
 
   // The currently selected category of products.
   Category _selectedCategory = Category.all;

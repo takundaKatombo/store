@@ -30,13 +30,15 @@ abstract class Styles {
   );
 
   static const TextStyle deliveryTimeLabel = TextStyle(
-    color: Color(0xFFC2C2C2),
-    fontWeight: FontWeight.w300,
-  );
+      color: Color(0xFFC2C2C2),
+      fontSize: 14,
+      fontWeight: FontWeight.w300,
+      decoration: TextDecoration.none);
 
   static const TextStyle deliveryTime = TextStyle(
-    color: CupertinoColors.inactiveGray,
-  );
+      fontSize: 14,
+      color: CupertinoColors.inactiveGray,
+      decoration: TextDecoration.none);
 
   static const Color productRowDivider = Color(0xFFD9D9D9);
 

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:store/ui/screens/account.dart';
 import 'package:store/ui/screens/home_page.dart';
 import 'package:store/ui/screens/search_tab.dart';
 import 'package:store/ui/screens/shopping_cart_tab.dart';
@@ -16,6 +17,9 @@ class RouteGenerator {
         return MaterialPageRoute(builder: (_) => SearchTab());
       case '/shopping_cart_tab':
         return MaterialPageRoute(builder: (_) => ShoppingCartTab());
+
+      case '/account':
+        return MaterialPageRoute(builder: (_) => Account());
 
       default:
         // If there is no such named route in the switch statement, e.g. /third

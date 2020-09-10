@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:store/model/app_state_model.dart';
+// import 'package:provider/provider.dart';
+// import 'package:store/model/app_state_model.dart';
 import 'package:store/model/product.dart';
 import 'package:store/ui/styles.dart';
 import 'package:store/ui/widgets/product_row_item.dart';
@@ -50,7 +50,7 @@ class _SearchTabState extends State<SearchTab> {
 
   @override
   Widget build(BuildContext context) {
-    final model = Provider.of<AppStateModel>(context);
+    //final model = Provider.of<AppStateModel>(context);
     //final results = model.search(_terms);
 
     return Scaffold(
